@@ -30,5 +30,30 @@
 ### 利用mvn dependency:copy-dependencies -DoutputDirectory=D:/lib  -DincludeScope=compile 把自定义lib的依赖包copy出来
 
 
+### user-defined-variables demo
 
-https://github.com/apache/jmeter
+![https://raw.githubusercontent.com/sdcuike/JMeter-jmx-BeanShellCode/master/BeanShell-demo/image/user-defined-variables.PNG](https://raw.githubusercontent.com/sdcuike/JMeter-jmx-BeanShellCode/master/BeanShell-demo/image/user-defined-variables.PNG)
+
+###  lib-config-path demo
+
+![https://raw.githubusercontent.com/sdcuike/JMeter-jmx-BeanShellCode/master/BeanShell-demo/image/main-lib-config-path.PNG](https://raw.githubusercontent.com/sdcuike/JMeter-jmx-BeanShellCode/master/BeanShell-demo/image/main-lib-config-path.PNG)
+
+
+### http-header-manager demo
+
+![https://raw.githubusercontent.com/sdcuike/JMeter-jmx-BeanShellCode/master/BeanShell-demo/image/http-header-manager.PNG](https://raw.githubusercontent.com/sdcuike/JMeter-jmx-BeanShellCode/master/BeanShell-demo/image/http-header-manager.PNG)
+
+
+###  BeanShellPreProcessor demo
+
+![https://raw.githubusercontent.com/sdcuike/JMeter-jmx-BeanShellCode/master/BeanShell-demo/image/BeanShellPreProcessor.PNG](https://raw.githubusercontent.com/sdcuike/JMeter-jmx-BeanShellCode/master/BeanShell-demo/image/BeanShellPreProcessor.PNG)
+
+
+### BeanShellPostProcessor demo
+
+![https://raw.githubusercontent.com/sdcuike/JMeter-jmx-BeanShellCode/master/BeanShell-demo/image/BeanShellPostProcessor.PNG](https://raw.githubusercontent.com/sdcuike/JMeter-jmx-BeanShellCode/master/BeanShell-demo/image/BeanShellPostProcessor.PNG)
+
+
+### loginByOtp demo
+
+![https://raw.githubusercontent.com/sdcuike/JMeter-jmx-BeanShellCode/master/BeanShell-demo/image/loginByOtp-%E8%AF%B7%E6%B1%82-%E5%93%8D%E5%BA%94-%E5%8A%A0%E5%AF%86-data%E5%AD%97%E6%AE%B5%E5%87%BA%E7%8E%B0.PNG](https://raw.githubusercontent.com/sdcuike/JMeter-jmx-BeanShellCode/master/BeanShell-demo/image/loginByOtp-%E8%AF%B7%E6%B1%82-%E5%93%8D%E5%BA%94-%E5%8A%A0%E5%AF%86-data%E5%AD%97%E6%AE%B5%E5%87%BA%E7%8E%B0.PNG)
